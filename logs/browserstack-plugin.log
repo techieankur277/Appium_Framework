@@ -1,0 +1,20 @@
+01:51:12.413 [main] INFO  c.b.launchers.LaunchMavenCommand - Executing maven archetype command - browserstack-sdk-archetype-integrate
+01:51:12.487 [main] INFO  c.b.launchers.LaunchMavenCommand - The maven properties for launcher are [archetypeArtifactId=browserstack-sdk-archetype-integrate, BROWSERSTACK_ACCESS_KEY=uh5qHyexcXy4TnochxYv, groupId=com.browserstack, BROWSERSTACK_APP=bs://sample.app, BROWSERSTACK_FRAMEWORK=java, version=1.0, PROJECT_NAME=BrowserStack Sample, archetypeVersion=1.5, archetypeGroupId=com.browserstack, artifactId=java-archetype-integrate, BROWSERSTACK_USERNAME=ankurgoyal_wxoWV5, BUILD_NAME=browserstack build, BROWSERSTACK_SOURCE=java:appium-eclipse:v1.0.10]
+01:51:29.555 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+01:51:29.555 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:51:29.556 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/EcommerceHybridFramework
+01:51:29.556 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+01:51:29.556 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+01:51:29.557 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/EcommerceHybridFramework
+02:12:49.956 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+02:12:49.956 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+02:12:49.957 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/EcommerceHybridFramework
+02:12:49.957 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+02:12:49.957 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+02:12:49.958 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/EcommerceHybridFramework
+02:12:52.024 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+02:12:52.025 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+02:12:52.026 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/EcommerceHybridFramework
+02:12:52.027 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+02:12:52.027 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+02:12:52.028 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/EcommerceHybridFramework

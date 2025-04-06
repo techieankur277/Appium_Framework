@@ -1,0 +1,62 @@
+02:07:13.521 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.31.0
+02:07:13.522 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+02:07:13.726 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/home/ai/eclipse-workspace/E-commerce_app/EcommerceHybridFramework, localrepository=/home/ai/.m2/repository}
+02:07:13.726 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/ai/eclipse-workspace/E-commerce_app/EcommerceHybridFramework/browserstack.yml
+02:07:13.791 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+02:07:14.021 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://57fa5f08736e3fc8ea1d95314ee5641facfde0f6]
+02:07:14.021 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+02:07:14.023 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 1f550273-3548-4a74-b34c-6083cc23646d
+02:07:14.023 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:07:20.650 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+02:07:25.833 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: fkllwbnltjtnnuiybfpfm8txkkax8zr1kwancvcd
+02:07:25.834 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:07:25.834 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+02:07:26.203 [main] ERROR com.browserstack.PercyFactory - Initialization of percy failed java.lang.Exception: Could not get percy token.
+02:07:26.203 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+02:07:33.927 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+02:08:46.498 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fkllwbnltjtnnuiybfpfm8txkkax8zr1kwancvcd to view build report, insights, and many more debugging information all at one place!
+
+02:08:46.498 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:52.145 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/d6043ad2739ef9124ad5264e616e45e984e0aecc
+02:08:52.145 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:08:52.172 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 1f550273-3548-4a74-b34c-6083cc23646d, testhub id: fkllwbnltjtnnuiybfpfm8txkkax8zr1kwancvcd
+02:08:52.172 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:10:36.901 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.31.0
+02:10:36.902 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+02:10:37.109 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/home/ai/eclipse-workspace/E-commerce_app/EcommerceHybridFramework, localrepository=/home/ai/.m2/repository}
+02:10:37.110 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/ai/eclipse-workspace/E-commerce_app/EcommerceHybridFramework/browserstack.yml
+02:10:37.153 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+02:10:37.359 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://57fa5f08736e3fc8ea1d95314ee5641facfde0f6]
+02:10:37.360 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+02:10:37.362 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 1868d1be-3da5-4d8b-999e-2baae8c4020f
+02:10:37.362 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:10:40.975 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+02:10:42.391 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: kmawhsznphtyv6lfkwdxsqowrxlmo7d3khyfidhs
+02:10:42.391 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:10:42.392 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+02:10:42.819 [main] ERROR com.browserstack.PercyFactory - Initialization of percy failed java.lang.Exception: Could not get percy token.
+02:10:42.820 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+02:10:46.584 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+02:11:58.609 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/kmawhsznphtyv6lfkwdxsqowrxlmo7d3khyfidhs to view build report, insights, and many more debugging information all at one place!
+
+02:11:58.609 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:12:03.569 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/90b8f463a5dd340abd6d09c0c1500a24f76e1628
+02:12:03.569 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:12:03.591 [Thread-0] INFO  c.browserstack.BrowserStackJavaAgent - SDK run ended for id: 1868d1be-3da5-4d8b-999e-2baae8c4020f, testhub id: kmawhsznphtyv6lfkwdxsqowrxlmo7d3khyfidhs
+02:12:03.591 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:20:47.200 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.31.0
+02:20:47.201 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.4.0
+02:20:47.367 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=/home/ai/eclipse-workspace/E-commerce_app/EcommerceHybridFramework, localrepository=/home/ai/.m2/repository}
+02:20:47.367 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : /home/ai/eclipse-workspace/E-commerce_app/EcommerceHybridFramework/browserstack.yml
+02:20:47.429 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+02:20:47.436 [main] INFO  c.b.config.BrowserStackConfig - Setting value of browserstackAutomation as specified in your environment to false
+02:20:47.644 [main] INFO  c.browserstack.BrowserStackJavaAgent - SDK run started with id: 09c60a19-5d87-4b5d-accb-29bc5ef318ac
+02:20:47.644 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:20:48.427 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+02:20:50.378 [main] INFO  com.browserstack.testOps.Listener - Testhub started with id: 12x2wscxchk9hbidpgy8tugdtogwfo0n9o2iluie
+02:20:50.378 [main] INFO  c.b.config.BrowserStackConfig - INFO
+02:20:50.378 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting Percy......
+02:20:50.835 [main] ERROR com.browserstack.PercyFactory - Initialization of percy failed java.lang.Exception: Could not get percy token.
+02:21:38.021 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/12x2wscxchk9hbidpgy8tugdtogwfo0n9o2iluie to view build report, insights, and many more debugging information all at one place!
+
+02:21:38.021 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
